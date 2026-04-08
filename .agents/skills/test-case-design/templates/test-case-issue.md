@@ -1,5 +1,10 @@
 ## テストケース: [シナリオ名]
 
+## ユーザーストーリー
+> **As a (Actor)** [e.g., 運用担当者]
+> **I want (Action)** [e.g., 手動でスクリプトを実行し]
+> **So that (Value)** [e.g., E2Eでインフラが正常稼働するか確認したい]
+
 ### 対象機能
 - Feature: `features/[feature-name]`
 - 関連Issue/PRD: #[番号] (あれば)
